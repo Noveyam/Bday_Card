@@ -4,7 +4,7 @@ function NavBar() {
     return (
         <nav>
             <figure id="pokeball">
-                <img id="pokeball" src="https://upload.wikimedia.org/wikipedia/commons/5/53/Pok%C3%A9_Ball_icon.svg" alt="half red half white ball"></img>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Pok%C3%A9_Ball_icon.svg" alt="half red half white ball"></img>
             </figure>
             <ul className="navbar">
                 <li>Home</li>
